@@ -1,0 +1,19 @@
+{
+  "repo_url": "https://github.com/boltzed/UIOverhaul",
+  "name": "UI Overhaul",
+  "description": "A UI overhaul for every map and mode.\n\nFeatures:\nExact health and stamina numbers on your own bars\nSpectator overhead bar on every player (health, stamina, weapon icon)\nSpectator camera switch between first and third person\n\nOther players' stamina is only shown to pure spectators, never to dead players on the death cam, so it can't be used to gain an edge.",
+  "mod_type": "Shared",
+  "authors": [
+    "boltzed"
+  ],
+  "dependencies": [
+    {
+      "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-Mods",
+      "version": ">=0.0.1"
+    }
+  ],
+  "ag_mod": true,
+  "tags": [
+    "Mod"
+  ]
+}
